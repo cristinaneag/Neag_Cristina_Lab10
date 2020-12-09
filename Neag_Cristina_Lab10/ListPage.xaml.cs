@@ -15,7 +15,7 @@ namespace Neag_Cristina_Lab10
     {
         public ListPage()
         {
-            //InitializeComponent();
+            InitializeComponent();
         }
 
         async void OnSaveButtonClicked(object sender, EventArgs e)
